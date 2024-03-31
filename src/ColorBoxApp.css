@@ -1,0 +1,21 @@
+.color-boxes-app {
+    text-align: center;
+  }
+  
+  .color-boxes-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .color-box {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 1px solid black;
+  }
+  
+  button {
+    margin-top: 20px;
+  }
+  
